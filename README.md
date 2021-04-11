@@ -1,1 +1,1 @@
-# Text
+echo "Hello world"
