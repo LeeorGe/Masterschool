@@ -1,1 +1,1 @@
-This is a test project to run commands automatic
+Masterschool_Wordlist.txt
