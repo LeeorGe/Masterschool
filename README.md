@@ -1,1 +1,1 @@
-Masterschool_Wordlist.txt
+Masterschool
