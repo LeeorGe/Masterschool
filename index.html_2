@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The best first website</title>
+</head>
+
+
+<style>
+h1 {
+  color: red;
+  background-color: yellowgreen;
+  font-size: 65px;
+  text-align: center;
+} 
+p {
+  color: blue;
+  background-color: pink;
+  font-style: bold;
+  font-size: 50px;
+  text-align: center;
+} 
+</style>
+
+<body>
+<h1>Hello World!</h1>
+<p>Welcome to my CSS page.</p>
+<p>Do you like it?</p>
+<p style="color: pink; background:black;"">Thank you!</p>
+<p>I appreciate your feedback</p>
+</body>
+</html>
