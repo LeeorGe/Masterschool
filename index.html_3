@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>The best first website</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <!--Bottom part-->
@@ -13,5 +14,7 @@
 <p>Welcome to my CSS page.</p>
 <p>Do you like it?</p>
 <p>I appreciate your feedback</p>
+<div id="first_div">My first box</div>
+<div>My second box</div>
 </body>
 </html>
