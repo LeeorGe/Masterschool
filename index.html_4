@@ -11,6 +11,6 @@
 <p>Do you like it?</p>
 <p>I appreciate your feedback</p>
 <div id="first_div">My first box</div>
-<div>My second box</div>
+<div id="Second_div">My second box</div>
 </body>
 </html>
