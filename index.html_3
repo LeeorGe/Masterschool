@@ -1,0 +1,17 @@
+<!--Top part-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The best first website</title>
+</head>
+
+<!--Bottom part-->
+
+<body>
+<h1>Hello World!</h1>
+<p>Welcome to my CSS page.</p>
+<p>Do you like it?</p>
+<p>I appreciate your feedback</p>
+</body>
+</html>
