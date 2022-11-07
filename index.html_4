@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The best first website</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+<h1>Hello World!</h1>
+<p>Welcome to my CSS page.</p>
+<p>Do you like it?</p>
+<p>I appreciate your feedback</p>
+<div id="first_div">My first box</div>
+<div>My second box</div>
+</body>
+</html>
