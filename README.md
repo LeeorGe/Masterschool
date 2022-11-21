@@ -1,1 +1,1 @@
-Masterschool
+Masterschool - Problem Solving with Splunk
