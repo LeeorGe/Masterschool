@@ -18,9 +18,12 @@ Message-Id: <6B7EC235-5B17-4CA8-B2B8-39290DEB43A3@test.lindsaar.net>
 Subject: Black Friday early access
 From: Mikel <g.corp.sender@gmail.com>
 To: Leeor G <Leeor@masterschool.com>
-Content-Type: multipart/alternative; boundary="00000000000010e1f105ee881605"
+Content-Type: multipart/mixed; boundary="00000000000060bd0105ee882e94"
 
---00000000000010e1f105ee881605
+--00000000000060bd0105ee882e94
+Content-Type: multipart/alternative; boundary="00000000000060bcfe05ee882e92"
+
+--00000000000060bcfe05ee882e92
 Content-Type: text/plain; charset="UTF-8"
 
 Hey Leeor,
@@ -28,17 +31,26 @@ Mikel from Google is here.
 You have been chosen to get early access to our black Friday sale
 This PDF is limited! No time to waste
 Or visit our website: https://store.google.com/collection/offers?hl=en-US
-<http://006.zzz.com.ua>
+<http://006.zzz.com.ua/>
 Mikel from Google
 
---00000000000010e1f105ee881605
+--00000000000060bcfe05ee882e92
 Content-Type: text/html; charset="UTF-8"
 Content-Transfer-Encoding: quoted-printable
 
 <div dir=3D"ltr">Hey Leeor,<br>Mikel from Google is here.<br>You have been =
 chosen to get early access to our black Friday sale<br>This PDF is limited!=
  No time to waste<br>Or visit our website:=C2=A0<a href=3D"http://006.zzz.c=
-om.ua">https://store.google.com/collection/offers?hl=3Den-US</a><div>Mikel =
-from Google<br></div></div>
+om.ua/" target=3D"_blank">https://store.google.com/collection/offers?hl=3De=
+n-US</a><div>Mikel from Google</div></div>
 
---00000000000010e1f105ee881605--
+--00000000000060bcfe05ee882e92--
+--00000000000060bd0105ee882e94
+Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document; name="Black Friday early access.docx"
+Content-Disposition: attachment; filename="Black Friday early access.docx"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_lb0unn2t0
+Content-ID: <f_lb0unn2t0>
+
+
+--00000000000060bd0105ee882e94--
