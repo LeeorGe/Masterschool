@@ -1,11 +1,11 @@
 Delivered-To: Leeor@masterschool.com
 Received: by 10.140.178.13 with SMTP id a13cs354079rvf;
-        Monday, 21 Nov 2022 20:05:05 -0800 (PST)
+        Thursday, 24 Nov 2022 20:05:05 -0800 (PST)
 Received: by 10.151.44.15 with SMTP id w15mr2254748ybj.98.1227326704711;
-        Monday, 21 Nov 2022 20:05:04 -0800 (PST)
+        Thursday, 24 Nov 2022 20:05:04 -0800 (PST)
 Received: from mail11.tpgi.com.au (mail11.tpgi.com.au [194.25.134.80])
         by mx.google.com with ESMTP id 10si5117885gxk.81.2022.11.21.20.05.03;
-        Monday, 21 Nov 2022 20:05:04 -0800 (PST)
+        Thursday, 24 Nov 2022 20:05:04 -0800 (PST)
 Received-SPF: neutral (google.com: 194.25.134.80 is neither permitted nor denied by domain of g.corp.sender@gmail.com) client-ip=194.25.134.80;
 Return-Path: <g.corp.sender@gmail.com>
 Authentication-Results: mx.google.com; spf=neutral (google.com: 194.25.134.80 is neither permitted nor denied by domain of g.corp.sender@gmail.com) smtp.mail=g.corp.sender@gmail.com
