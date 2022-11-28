@@ -11,7 +11,7 @@ Return-Path: <g.corp.sender@gmail.com>
 Authentication-Results: mx.google.com; spf=neutral (google.com: 194.25.134.80 is neither permitted nor denied by domain of g.corp.sender@gmail.com) smtp.mail=g.corp.sender@gmail.com
 X-TPG-Junk-Status: Message not scanned
 X-TPG-Antivirus: Passed
-Received: from [192.0.0.253] (60-241-138-146.static.tpgi.com.au [60.0.0.146])
+Received: from [194.25.134.80] (60-241-138-146.static.tpgi.com.au [60.0.0.146])
 	by mail11.tpgi.com.au (envelope-from g.corp.sender@gmail.com) (8.14.3/8.14.3) with ESMTP id mAM44xew022221
 	for <Leeor@masterschool.com>; Sat, 22 Nov 2022 15:05:01 +1100
 Message-Id: <6B7EC235-5B17-4CA8-B2B8-39290DEB43A3@test.lindsaar.net>
